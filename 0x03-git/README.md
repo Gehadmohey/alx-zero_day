@@ -1,1 +1,1 @@
-Iam learning about git 
+this is readme
